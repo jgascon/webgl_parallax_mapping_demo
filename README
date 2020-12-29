@@ -1,0 +1,93 @@
+
+
+                            WebGL Parallax Mapping demo
+--------------------------------------------------------------------------------
+
+    Copyright (C) 2020 Jorge Gascon Perez PhD
+    This file is part of WebGL Parallax Demo
+    <https://github.com/jgascon/webgl_parallax_mapping_demo>.
+
+    WebGL Parallax Demo is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    WebGL Parallax Demo is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General
+    Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with WebGL Parallax Demo.  If not, see <http://www.gnu.org/licenses/>.
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+
+
+                                  LIVE DEMO AT:
+--------------------------------------------------------------------------------
+
+        https://jgascon.net/blog/2020/Webgl_parallax_mapping_demo.php
+
+
+
+
+                                HOW TO INSTALL:
+--------------------------------------------------------------------------------
+
+    As WebGL has some domain-restriction policies to restrict the loading of
+    textures:
+
+    In order to run this demo, you need to install a web server in you machine
+    (or copy the code of this demo in a web server).
+
+
+    1) Open Google Chrome web browser.
+
+
+    2) In the address bar, write this:
+
+                            web server for chrome
+
+
+    3) Press ENTER and the webpage of "web server for chrome" web store will be
+       loaded.
+
+
+    4) Press "Install" button in order to install this extension.
+
+
+    5) Press "Start App" and a small floating panel will appear (maybe it will
+       appear below the window of your web browser).
+
+
+    6) In the floating panel, press "Choose Folder":
+
+        Select the directory where you downloaded and uncompressed the
+        "webgl_parallax_mapping_demo".
+
+
+    7) In the web browser visit the url written in the floating panel, in my case
+       it was:
+
+                        http://127.0.0.1:8887/index.html
+
+    8) And the demo will appear :-)
+
+
+    For questions please, send me a message to:
